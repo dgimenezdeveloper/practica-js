@@ -15,6 +15,7 @@ function anioActual() {
     return new Date().getFullYear();
 }
 
+
 /*console.log( siguiente(7)) ;
 alert(siguiente(8));
 document.write(siguiente(7));*/
